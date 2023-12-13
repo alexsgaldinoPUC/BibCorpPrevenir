@@ -1,3 +1,4 @@
 # BibCorpPrevenir
 
-Biblioteca Corporativa Prevernir - BibCorpPrevenir
+Biblioteca Corporativa Prevenir - BibCorpPrevenir
+BibCorpPrevenir - Biblioteca Corporativa Prevenir
